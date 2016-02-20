@@ -1,0 +1,18 @@
+{
+  "name": "encouraging-cow",
+  "version": "1.0.0",
+  "description": "A cow friend to cheer you on and cheer you up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cow",
+    "cowsay"
+  ],
+  "author": "Ethan Muller",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.1.3"
+  }
+}
