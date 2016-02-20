@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A cow friend to cheer you on and cheer you up.",
   "main": "index.js",
+  "bin": {
+    "encouraging-cow": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
