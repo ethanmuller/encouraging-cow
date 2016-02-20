@@ -1,6 +1,6 @@
 {
   "name": "encouraging-cow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Because sometimes you need a little encouragement from a cow",
   "main": "index.js",
   "bin": {
